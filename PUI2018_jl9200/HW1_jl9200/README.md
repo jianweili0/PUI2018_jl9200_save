@@ -3,7 +3,9 @@
 ###  Set up environment variable and alias 
 
 
-PUI2018_jl9200/PUI2018_jl9200/HW1_jl9200/docker_nanobashrc.JPG
+Format: ![Alt Text](PUI2018_jl9200/PUI2018_jl9200/HW1_jl9200/docker_nanobashrc.JPG)
+
+
   - To set up the environment variable in ADRF page, I use source ~/.bashrc
   - make alia for my folder PUI2018 in nano environement
 
