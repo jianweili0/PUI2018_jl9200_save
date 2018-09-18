@@ -1,6 +1,6 @@
 # Homework 1
 
-###  Set up environment variable and alias 
+###  HW_1 Set up environment variable and alias 
 
 
 ![Image](https://raw.githubusercontent.com/jianweili0/PUI2018_JL9200/assets/docker_nanobashrc.JPG)
@@ -11,7 +11,7 @@ see picture(docker_nanobashrc.JPG)
 
 
 
-### Run alias within terminal 
+### HW_2 Run alias within terminal 
 
 
 see picture(inside_nano.JPG)
@@ -19,7 +19,16 @@ see picture(inside_nano.JPG)
   - ctrl x to exit the nano environment and back to the terminal
   - Run your alias
 
+### HW_3 Work on jupyter notebook
 
-##### Still trying to render image into my README.md
+
+see JianweiLi_ji9200_HW1_3.ipynb
+
+
+##### Problems: Still trying to render image into my README.md
 
 ![Image Name](https://raw.githubusercontent.com/{user}/{repo}/assets/cat.png)
+
+
+Special thanks to Wenjie, Marvin, Xiaoning and Fu shang for helping me to debug the errors I encountered
+
