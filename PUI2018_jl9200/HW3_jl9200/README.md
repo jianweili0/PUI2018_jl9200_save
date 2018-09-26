@@ -3,10 +3,13 @@
 ### Assignments:
 
 
-#### Assignment_1. Peform the instruction in deleteData.md: delete data and its history from a GitHub rep
+#### Assignment_1. Peform the instruction in [deleteData.md](https://github.com/fedhere/PUI2018_fb55/blob/master/HW3_fb55/deleteData.md): delete data and its history from a GitHub rep
+
 In terminal
 
-![rm fromterminal](https://user-images.githubusercontent.com/31417181/46114484-de2a5d00-c1c0-11e8-9c78-e953dabfbca7.JPG)
+
+
+![rm fromterminal](https://user-images.githubusercontent.com/31417181/46114966-00bd7580-c1c3-11e8-902d-19b48ccd08c0.JPG)
 
 
 GitHub
