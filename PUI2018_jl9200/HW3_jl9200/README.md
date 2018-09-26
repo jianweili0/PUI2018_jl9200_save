@@ -38,22 +38,39 @@ python show_bus_locations.py xxxxx-xxxxx-xxxxx-xxxxx-xxxxx M15
 Output:
 
 Bus Line :M15
+
 Number of Active Buses : 16
+
 Bus 0 is at latitude 40.781508 and longitude -73.949086
+
 Bus 1 is at latitude 40.711049 and longitude -74.000432
+
 Bus 2 is at latitude 40.764562 and longitude -73.958373
+
 Bus 3 is at latitude 40.744846 and longitude -73.975851
+
 Bus 4 is at latitude 40.75323 and longitude -73.96973
+
 Bus 5 is at latitude 40.738454 and longitude -73.980496
+
 Bus 6 is at latitude 40.764409 and longitude -73.961557
+
 Bus 7 is at latitude 40.762501 and longitude -73.962955
+
 Bus 8 is at latitude 40.744264 and longitude -73.973152
+
 Bus 9 is at latitude 40.724063 and longitude -73.987875
+
 Bus 10 is at latitude 40.735519 and longitude -73.98257
+
 Bus 11 is at latitude 40.753674 and longitude -73.966287
+
 Bus 12 is at latitude 40.800438 and longitude -73.935252
+
 Bus 13 is at latitude 40.796793 and longitude -73.934824
+
 Bus 14 is at latitude 40.711283 and longitude -73.992364
+
 Bus 15 is at latitude 40.787552 and longitude -73.941576
 
 
@@ -72,22 +89,39 @@ python show_bus_locations.py xxxxx-xxxxx-xxxxx-xxxxx-xxxxx M15
 output to a csv file named <BUS_LINE>.csv as beloow:
 
 Latitude,Longitude,Stop Name,Stop Status
+
 40.803068,-73.93222,E 126 ST/2 AV,at stop
+
 40.731078,-73.98586,2 AV/E 12 ST,approaching
+
 40.705185,-74.00738,WATER ST/GOUVERNEUR LA,approaching
+
 40.731269,-73.982632,1 AV/E 14 ST,approaching
+
 40.799345,-73.932971,1 AV/PALADINO AV,approaching
+
 40.738674,-73.980344,2 AV/E 23 ST,approaching
+
 40.771444,-73.953321,1 AV/E 79 ST,< 1 stop away
+
 40.731977,-73.9852,2 AV/E 12 ST,< 1 stop away
+
 40.776256,-73.952912,2 AV/E 82 ST,< 1 stop away
+
 40.758735,-73.965722,2 AV/E 54 ST,< 1 stop away
+
 40.760018,-73.961664,1 AV/E 62 ST,< 1 stop away
+
 40.794585,-73.939538,2 AV/E 110 ST,< 1 stop away
+
 40.751893,-73.967494,1 AV/MITCHELL PL,< 1 stop away
+
 40.75154,-73.970967,2 AV/E 42 ST,< 1 stop away
+
 40.75685,-73.967089,2 AV/E 50 ST,< 1 stop away
+
 40.729805,-73.983691,1 AV/E 14 ST,< 1 stop away
+
 
 I also add the feature for error input, such as if you input M6, which it is not exist it will return like below:
 
