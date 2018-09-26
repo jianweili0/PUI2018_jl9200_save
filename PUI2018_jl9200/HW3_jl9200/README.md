@@ -6,7 +6,8 @@
 #### Assignment_1. Peform the instruction in deleteData.md: delete data and its history from a GitHub rep
 
 In terminal
-![Alt Text](/HW3_1_image/rm fromTerminal.JPG)
+![rm fromterminal](https://user-images.githubusercontent.com/31417181/46114484-de2a5d00-c1c0-11e8-9c78-e953dabfbca7.JPG)
+
 
 GitHub
 ![Alt Text](/HW3_1_image/RepoHistory.JPG)
