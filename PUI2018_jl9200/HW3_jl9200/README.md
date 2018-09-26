@@ -4,13 +4,14 @@
 
 
 #### Assignment_1. Peform the instruction in deleteData.md: delete data and its history from a GitHub rep
-
 In terminal
+
 ![rm fromterminal](https://user-images.githubusercontent.com/31417181/46114484-de2a5d00-c1c0-11e8-9c78-e953dabfbca7.JPG)
 
 
 GitHub
-![Alt Text](/HW3_1_image/RepoHistory.JPG)
+
+![repohistory](https://user-images.githubusercontent.com/31417181/46114855-7d038900-c1c2-11e8-9678-5226bf040b49.JPG)
 
 
 #### Assignment_2. Choose a file in CSV format from NYC Open Data and use pandas to read the file and mangle the data within it.
@@ -86,10 +87,13 @@ Latitude,Longitude,Stop Name,Stop Status
 40.729805,-73.983691,1 AV/E 14 ST,< 1 stop away
 
 I also add the feature for error input, such as if you input M6, which it is not exist it will return like below:
-![Alt_Text](/HW3_4_image/NoSuchRoute.JPG)
+
+![nosuchroute](https://user-images.githubusercontent.com/31417181/46114874-a3292900-c1c2-11e8-9a82-90eb61da859a.JPG)
+
 
 Meanwhile, if the Json data 'OnwardCalls' is empty I output the "Stop Name", and "Stop Status" as "N/A" like below:
-![Alt_Text](/HW3_4_image/NA.JPG)
+
+![na](https://user-images.githubusercontent.com/31417181/46114900-ba681680-c1c2-11e8-9235-8745ca2cfc2c.JPG)
 
 
 
