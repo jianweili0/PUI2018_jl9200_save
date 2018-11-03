@@ -33,3 +33,7 @@ either W all age, W < 35, M all age M < 35 only weekend trips ofr all, or
 W < 35 weekends, W < 35 any day, M < 35 weekends, M < 35 any day 
 
 you basically copied my data reduction...
+
+# TEST
+
+either way this is a test for proportions: Z test or chi square test would be appropriate
