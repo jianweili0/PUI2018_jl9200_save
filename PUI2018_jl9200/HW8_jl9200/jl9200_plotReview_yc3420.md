@@ -1,7 +1,8 @@
 ## Plot peer review for Jianwei Li
 
-![image1_from_jl9200]PUI2018_jl9200/PUI2018_jl9200/HW8_jl9200/WifiSpotsNYC.png
-![image2_from_jl9200]PUI2018_jl9200/PUI2018_jl9200/HW8_jl9200/linkNYCvsNonLinkNYC.png
+![image1_from_jl9200](PUI2018_jl9200/PUI2018_jl9200/HW8_jl9200/WifiSpotsNYC.png)
+  
+![image2_from_jl9200](PUI2018_jl9200/PUI2018_jl9200/HW8_jl9200/linkNYCvsNonLinkNYC.png)
 
 
 There are two plots in Jianwei’s assignment 1. Both of them are geospatial image and the data source is related to urban. As for clarity, those two images did a great work. According to the code, the two plots are both reproducible. There are legend, title, and caption attached to the images which made the image more readable. For the second one, there is only legend for the choropleth map. Although Jianwei noted in the title about what orange and yellow dots stand for, it is better to add a second legend for the reader. 
