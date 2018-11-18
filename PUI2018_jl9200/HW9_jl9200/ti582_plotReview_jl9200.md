@@ -1,0 +1,5 @@
+Plot by Thomas Isola
+
+[githublink](https://github.com/jianweili0/PUI2018_ti582/tree/master/HW8_ti582)
+
+In this plot, It's clear that the author are trying to compare the senior centers in NYC and also the neighborhood slow zones spatialy on the puma district map. Although, this plot are missing axis, labels and legends, I believe the spatial relation are really straight-forward. Based on the data source from the graph, which is from Vision Zero Seniors Center data, I also find another data source from NYC OPEN DATA PORTOL by Department for the Aging. It will be nice with the author can compare this two dataset as well. Also for the slow zone data, it might also indicate there are intermodal area. which I guess from the red area from the plot. It include some of the intersections between highways and interstate roads, which might correlate spatialy with the slow zone location as well. Overall. the color sheme are well depicted and It's a good spatial drawing to demonstrate the idea.
